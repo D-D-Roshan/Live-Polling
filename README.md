@@ -6,7 +6,7 @@
 
 ## 🔗 Live Project
 
-[🔗 https://live-polling-system-ifbp.vercel.app/](https://live-polling-system-ifbp.vercel.app/)
+[🔗 https://live-polling-system-ifbp.vercel.app/]()
 
 
 ---
@@ -17,7 +17,7 @@ Follow these steps to run the project on your local machine:
 ### 1. Clone the repository and start the app
 
 ```bash
-git clone https://github.com/adarshjha7/Live-Polling-System.git
+git clone https://github.com/D-D-Roshan/Live-Polling.git
 cd Live-Polling-System
 npm install
 npm run dev
@@ -83,6 +83,7 @@ npm run dev
 ![Screenshot (79)](https://github.com/user-attachments/assets/98e34bb0-5ea2-4612-86ed-6ac886c56421)
 
 ![Screenshot (81)](https://github.com/user-attachments/assets/f6f4e450-7a6c-42ef-9e68-da7c2145d5d1)
+
 
 
 
